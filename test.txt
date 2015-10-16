@@ -1,2 +1,4 @@
 helloworld
 testnewline
+addnewline:wq!
+
